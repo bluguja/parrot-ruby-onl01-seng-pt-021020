@@ -2,6 +2,6 @@
       puts phrase
       "Squawk"
      end
-     
+     parrot("Pretty bird!")
     
  
